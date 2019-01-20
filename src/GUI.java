@@ -138,7 +138,9 @@ public class GUI extends Application {
         checkers.setOnMouseClicked(new EventHandler<MouseEvent>() {
             @Override
             public void handle(MouseEvent event) {
-                System.out.println((int) Math.floor(event.getX()/100) + " " + (int) Math.floor(event.getY()/100) + " " + event.getEventType());
+                int x = (int) Math.floor(event.getX()/100);
+                int y = (int) Math.floor(event.getY()/100);
+                board.
             }
         });
         for(int x=0;x<8;x++){

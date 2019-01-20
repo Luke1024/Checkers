@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 
 public class BoardRow {
-    ArrayList<Field> row = new ArrayList<Field>();
+    private ArrayList<Field> row = new ArrayList<Field>();
     BoardRow(){
         for(int i=0;i<8;i++){
             row.add(new Field(Army.NONE, Type.NONE, Move.NONE, Move.NONE, Move.NONE, Move.NONE));
