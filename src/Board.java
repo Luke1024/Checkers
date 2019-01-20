@@ -7,6 +7,8 @@ class Board {
     private Move leftDown;
     private Move rightDown;
     private Field field;
+    private Field field2;
+    private Field field3;
     private ArrayList<BoardRow> checkerBoard = new ArrayList<BoardRow>();
 
     Board() {
@@ -63,13 +65,28 @@ class Board {
     Move getLeftUpMove(int x, int y) {
         field = getField(x,y);
         if (field.getArmy() == Army.TOP && field.getArmy() == Army.BOTTOM) {
-            if (getField(x, y).getArmy() == getField(x - 1, y - 1).getArmy()) {
+            try{
+                field2 = getField(x-1,y-1);
+            } catch (Exception e){
                 move = Move.NONE;
-            } else {
-                if (getField(x - 2, y - 2).getArmy() == Army.NONE) {
-                    move = Move.MANDATORY_JUMP;
-                } else move = Move.NONE;
             }
+            try{
+                field3 = getField(x-2,y-2);
+            } catch (Exception e){
+                move = Move.NONE;
+            }
+
+        }
+
+
+
+
+
+                if (field.getArmy() == field2.getArmy()) {
+                    move = Move.NONE;
+                } else {
+                    if (field3.getArmy() == Army.NONE) {
+                        move = Move.MANDATORY_JUMP; }
         } else move = Move.AVAILABLE;
         return move;
     }
