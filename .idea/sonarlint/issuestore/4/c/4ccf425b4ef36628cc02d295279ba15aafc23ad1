@@ -1,0 +1,16 @@
+
+1squid:S1220""Move this file to a named package.
+Asquid:S1068"*Remove this unused "leftUp" private field.(äÑì¢
+[squid:S1854"?Remove this useless assignment to local variable "fieldBottom".(ÕÂðƒúÿÿÿÿ
+usquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(àÈß¢ûÿÿÿÿ
+Xsquid:S1854"<Remove this useless assignment to local variable "fieldTop".(Óõ÷˜ýÿÿÿÿ
+Isquid:S1481"-Remove this unused "fieldTop" local variable.(Óõ÷˜ýÿÿÿÿ
+Msquid:S2209Ù"5Change this instance-reference to a static reference.(¼ò¦ƒ
+Qsquid:S1141i"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Lsquid:S1481"0Remove this unused "fieldBottom" local variable.(ÕÂðƒúÿÿÿÿ
+Isquid:S1068"-Remove this unused "rightDown" private field.(Ûó‚µüÿÿÿÿ
+Rsquid:S1141…"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Hsquid:S1068",Remove this unused "leftDown" private field.(§ß¥©ûÿÿÿÿ
+Rsquid:S1141¡"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Qsquid:S1141M"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Gsquid:S1068"+Remove this unused "rightUp" private field.(È™Áøÿÿÿÿ
