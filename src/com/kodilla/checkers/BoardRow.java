@@ -11,6 +11,6 @@ public class BoardRow {
         return row.get(index);
     }
     public void setField(int index, Field field){
-        row.add(index, field);
+        row.set(index, field);
     }
 }

@@ -1,3 +1,5 @@
+package com.kodilla.checkers;
+
 class MoveCoords {
     private int row1;
     private int row2;
@@ -23,7 +25,4 @@ class MoveCoords {
         return col1;
     }
 
-    public int getCol2() {
-        return col2;
-    }
-}
+    public int getCol2() 

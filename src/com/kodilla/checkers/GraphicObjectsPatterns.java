@@ -1,3 +1,5 @@
+package com.kodilla.checkers;
+
 import javafx.scene.Group;
 
 public class GraphicObjectsPatterns {
@@ -13,6 +15,4 @@ public class GraphicObjectsPatterns {
             {1,0,1,0,1,0,1,0}};
 
     public byte[][] getCheckerBoard() {
-        return checkerBoard;
-    }
-}
+       

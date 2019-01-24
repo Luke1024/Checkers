@@ -1,3 +1,5 @@
+package com.kodilla.checkers;
+
 public class Field {
     Army army;
     Type type;
@@ -60,6 +62,4 @@ public class Field {
         this.leftDown = leftDown;
         this.rightDown = rightDown;
         this.leftUp = leftUp;
-        this.rightUp = rightUp;
-    }
-}
+        th
