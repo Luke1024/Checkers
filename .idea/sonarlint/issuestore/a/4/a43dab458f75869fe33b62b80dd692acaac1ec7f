@@ -1,0 +1,5 @@
+
+lsquid:S1450"URemove the "field2" field and declare it as a local variable in the relevant methods.(ª²Ñƒ
+Qsquid:S1141"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ê†¯†ùÿÿÿÿ
+lsquid:S1450"URemove the "field3" field and declare it as a local variable in the relevant methods.( ØøŠ

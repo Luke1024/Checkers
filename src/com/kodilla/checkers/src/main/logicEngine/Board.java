@@ -2,11 +2,9 @@ package com.kodilla.checkers.src.main.logicEngine;
 
 import java.util.ArrayList;
 
+import static java.lang.Math.abs;
+
 public class Board {
-    private Move move;
-    private Field field;
-    private Field field2;
-    private Field field3;
     private ArrayList<BoardRow> checkerBoard = new ArrayList<>();
 
     Board() {
@@ -56,15 +54,15 @@ public class Board {
     }
 
     public void moveFigure(MoveCoords move){
-        field=getField(move.getRow1(), move.getCol1());
-        if(move.getRow2()-move.getRow1()==2 && move.getCol2()-move.getCol1()==2){
+        Field field=getField(move.getRow1(), move.getCol1());
+        if(abs(move.getRow2()-move.getRow1())==2 && abs(move.getCol2()-move.getCol1())==2){
             removeFigure((move.getRow1()+move.getRow2())/2,(move.getCol1()+move.getCol2())/2);
         }
         setFieldNew(move.getRow2(),move.getCol2(),field);
-        setFieldNew(move.getRow1(), move.getCol1(), new Field(Army.NONE, Type.NONE, Move.NONE, Move.NONE, Move.NONE,Move.NONE));
+        setFieldNew(move.getRow1(), move.getCol1(), new Field(Army.NONE, Type.NONE, Move.NONE, Move.NONE, Move.NONE, Move.NONE));
     }
 
     public void removeFigure(int row, int col){
-        setFieldNew(row,col,new Field(Army.NONE, Type.NONE,Move.NONE,Move.NONE,Move.NONE,Move.NONE));
+        setFieldNew(row,col,new Field(Army.NONE, Type.NONE, Move.NONE, Move.NONE, Move.NONE, Move.NONE));
     }
 }

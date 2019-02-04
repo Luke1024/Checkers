@@ -1,19 +1,15 @@
 package com.kodilla.checkers.src.main.logicEngine;
 
 public class Field {
-    Army army;
-    Type type;
-    Move leftDown;
-    Move rightDown;
-    Move leftUp;
-    Move rightUp;
+    private Army army;
+    private Type type;
+    private Move leftDown;
+    private Move rightDown;
+    private Move leftUp;
+    private Move rightUp;
 
     public Army getArmy() {
         return army;
-    }
-
-    public void setArmy(Army army) {
-        this.army = army;
     }
 
     public Type getType() {

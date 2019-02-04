@@ -2,19 +2,53 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d92f20a0-63ec-424e-bb99-9b9ac1559e00" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/0/0039bacc787058300f51c350355999ad86bfff80" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/c/0c191e8fc70e90ebd0ba6dfe0bfcb56b822a025a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/9/193677a03cbbeb7c18742955409abddb32b660b5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/b/2b8ee9e7390ab2a3152264ff2f4772dda0984134" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/c/4ccf425b4ef36628cc02d295279ba15aafc23ad1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/7/87ad47a3340a963a2f5bceff89c03b2142bd5742" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/9/a955052fd27abea410b6be4d4e0bf0624a8bc8e2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/0/c048c7e78d001f62f25b9acb1266ac5e4be389d2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/6/d66537506b90031ee7ccf22527dfecab0ec018f2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/6/e6c942258ef80a493b61a419660ba9cc5977fbbb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/9/e9d14a73cebcb67ed6f73c20096019cfdd03f878" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kodilla/checkers/src/main/logicEngine/WhoWin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/a/0a7d96719ee69ceebe6f994dec53be6c66137beb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/8/380a6d40ec03c21520e6204986f821eeded7257b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/2/42d3ca1d0481a983f99139c643d141708e20f8f6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/6/5675f423993319fad22b11bf3c36a2394b55b0df" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/5/65dc00745bd06eb40f21288fb7d1cc8244a0b3ed" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/7/87caa2119e110278720d091f6af5bbfc388f51eb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/7/87caa2119e110278720d091f6af5bbfc388f51eb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/b/abde4341b9eed3487c031b7712ab56838b8bb0a9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/3/c3452120e9bbdc90559b1ef402a3646ae4bfc420" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/8/c898bc45ce7d21e1663eae689e4e77cacadfaf47" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/9/f9312dec637ae471f60a5cea2ed795de9d671a62" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Checkers/com/kodilla/checkers/src/main/Army.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Checkers/com/kodilla/checkers/src/main/Board.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Checkers/com/kodilla/checkers/src/main/BoardRow.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Checkers/com/kodilla/checkers/src/main/Checkers.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Checkers/com/kodilla/checkers/src/main/Checkers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Checkers/com/kodilla/checkers/src/main/Field.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Checkers/com/kodilla/checkers/src/main/GUI$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Checkers/com/kodilla/checkers/src/main/GUI$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Checkers/com/kodilla/checkers/src/main/GUI$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Checkers/com/kodilla/checkers/src/main/GUI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Checkers/com/kodilla/checkers/src/main/GraphicObjectsPatterns.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Checkers/com/kodilla/checkers/src/main/Move.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Checkers/com/kodilla/checkers/src/main/MoveCoords.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Checkers/com/kodilla/checkers/src/main/Type.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kodilla/checkers/src/main/Checkers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kodilla/checkers/src/main/Checkers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kodilla/checkers/src/main/GUI/CheckersDrawingLogic.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kodilla/checkers/src/main/GUI/CheckersPatterns.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kodilla/checkers/src/main/GUI/CheckersPatterns.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kodilla/checkers/src/main/GUI/GUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kodilla/checkers/src/main/GUI/GUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kodilla/checkers/src/main/GUI/GUILogic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kodilla/checkers/src/main/GUI/GUILogic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kodilla/checkers/src/main/GUI/MenuDrawingLogic.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kodilla/checkers/src/main/GUI/MenuPatterns.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kodilla/checkers/src/main/logicEngine/Army.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kodilla/checkers/src/main/logicEngine/Army.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kodilla/checkers/src/main/logicEngine/AvailableMovesAnalyzer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kodilla/checkers/src/main/logicEngine/AvailableMovesAnalyzer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kodilla/checkers/src/main/logicEngine/Board.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kodilla/checkers/src/main/logicEngine/Board.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kodilla/checkers/src/main/logicEngine/CheckersInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kodilla/checkers/src/main/logicEngine/CheckersInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kodilla/checkers/src/main/logicEngine/CoronationAnalyzer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kodilla/checkers/src/main/logicEngine/Difficulty.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kodilla/checkers/src/main/logicEngine/Field.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kodilla/checkers/src/main/logicEngine/Field.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kodilla/checkers/src/main/logicEngine/HumanVsHuman.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kodilla/checkers/src/main/logicEngine/Logic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kodilla/checkers/src/main/logicEngine/Logic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kodilla/checkers/src/main/logicEngine/MandatoryMovesFilter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kodilla/checkers/src/main/logicEngine/Mode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kodilla/checkers/src/main/logicEngine/Move.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kodilla/checkers/src/main/logicEngine/Move.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kodilla/checkers/src/main/logicEngine/MoveCoords.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kodilla/checkers/src/main/logicEngine/MoveCoords.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kodilla/checkers/src/main/logicEngine/Type.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kodilla/checkers/src/main/logicEngine/Type.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,107 +60,59 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/kodilla/checkers/src/main/Field.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-              <folding>
-                <element signature="e#525#526#0" expanded="true" />
-                <element signature="e#565#566#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/src/com/kodilla/checkers/src/main/logicEngine/WhoWin.java">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/kodilla/checkers/src/main/BoardRow.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="15" column="30" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/src/com/kodilla/checkers/src/main/logicEngine/CheckersInterface.java">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/kodilla/checkers/src/main/Board.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2244">
-              <caret line="110" column="29" lean-forward="true" selection-start-line="110" selection-start-column="29" selection-end-line="110" selection-end-column="29" />
-              <folding>
-                <element signature="e#526#527#0" expanded="true" />
-                <element signature="e#588#589#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/src/com/kodilla/checkers/src/main/GUI/CheckersPatterns.java">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/kodilla/checkers/src/main/Checkers.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/src/com/kodilla/checkers/src/main/logicEngine/Board.java">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/kodilla/checkers/src/main/Move.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/src/com/kodilla/checkers/src/main/logicEngine/BoardRow.java">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/kodilla/checkers/src/main/Army.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/src/com/kodilla/checkers/src/main/logicEngine/AvailableMovesAnalyzer.java">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/kodilla/checkers/src/main/GUI.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="792">
-              <caret line="38" column="20" lean-forward="true" selection-start-line="38" selection-start-column="20" selection-end-line="38" selection-end-column="20" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/src/com/kodilla/checkers/src/main/logicEngine/Type.java">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/kodilla/checkers/src/main/GraphicObjectsPatterns.java">
+        <entry file="file://$PROJECT_DIR$/src/com/kodilla/checkers/src/main/Checkers.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="770">
-              <caret line="98" column="28" selection-start-line="96" selection-start-column="2" selection-end-line="123" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#524#525#0" expanded="true" />
-                <element signature="e#559#560#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="176">
+              <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/kodilla/checkers/src/main/MoveCoords.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="18" selection-start-line="18" selection-end-line="18" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/src/com/kodilla/checkers/src/main/GUI/GUILogic.java">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/kodilla/checkers/src/main/Type.java">
+        <entry file="file://$PROJECT_DIR$/src/com/kodilla/checkers/src/main/logicEngine/Army.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="44">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+              <caret line="2" column="18" lean-forward="true" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -153,14 +139,17 @@
         <option value="$PROJECT_DIR$/src/com/kodilla/checkers/GraphicObjectsPatterns.java" />
         <option value="$PROJECT_DIR$/src/com/kodilla/checkers/Board.java" />
         <option value="$PROJECT_DIR$/src/com/kodilla/checkers/src/main/Board.java" />
+        <option value="$PROJECT_DIR$/../CheckersLogic1Archived/src/GraphicObjectsPatterns.java" />
+        <option value="$PROJECT_DIR$/src/com/kodilla/checkers/src/main/logicEngine/CoronationAnalyzer.java" />
+        <option value="$PROJECT_DIR$/src/com/kodilla/checkers/src/main/logicEngine/Army.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-980" />
-    <option name="y" value="203" />
-    <option name="width" value="840" />
-    <option name="height" value="1300" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="2576" />
+    <option name="height" value="1416" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -168,6 +157,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -190,14 +181,12 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548422484216" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549292338937" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
@@ -205,6 +194,7 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\base_user\IdeaProjects\Checkers\src" />
+      <recent name="C:\Users\base_user\IdeaProjects\Checkers\src\com\kodilla\checkers\src\main" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -221,8 +211,8 @@
   </component>
   <component name="RunManager">
     <configuration name="Checkers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Checkers" />
-      <module name="CheckersLogic1Archived" />
+      <option name="MAIN_CLASS_NAME" value="com.kodilla.checkers.src.main.Checkers" />
+      <module name="Checkers" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -253,17 +243,20 @@
       <workItem from="1548322702197" duration="27824000" />
       <workItem from="1548421169912" duration="1328000" />
       <workItem from="1548684511538" duration="994000" />
+      <workItem from="1548876486352" duration="492000" />
+      <workItem from="1548877507217" duration="789000" />
+      <workItem from="1548953344872" duration="532000" />
+      <workItem from="1549292033518" duration="302000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="75605000" />
+    <option name="totallyTimeSpent" value="77720000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="2552" y="-168" width="1216" height="1576" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="2576" height="1416" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17560554" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20866455" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -283,7 +276,7 @@
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.32346064" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.20576774" />
-      <window_info anchor="bottom" id="SonarLint" order="13" weight="0.3593141" />
+      <window_info active="true" anchor="bottom" id="SonarLint" order="13" visible="true" weight="0.12003118" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -301,10 +294,10 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/UserDialogs.java" />
     <entry file="file://$PROJECT_DIR$/src/com/kodilla/checkers/LogicEngine.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/kodilla/checkers/src/main/Field.java">
+    <entry file="file://$PROJECT_DIR$/../CheckersLogic1Archived/src/Field.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
           <folding>
             <element signature="e#525#526#0" expanded="true" />
             <element signature="e#565#566#0" expanded="true" />
@@ -312,12 +305,137 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/kodilla/checkers/src/main/BoardRow.java">
+    <entry file="file://$PROJECT_DIR$/../CheckersLogic1Archived/src/BoardRow.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="15" column="30" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
+        <state relative-caret-position="220">
+          <caret line="13" column="30" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../CheckersLogic1Archived/src/Board.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2332">
+          <caret line="108" column="29" selection-start-line="108" selection-start-column="29" selection-end-line="108" selection-end-column="29" />
+          <folding>
+            <element signature="e#526#527#0" expanded="true" />
+            <element signature="e#588#589#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../CheckersLogic1Archived/src/Checkers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../CheckersLogic1Archived/src/Move.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="12" selection-start-column="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../CheckersLogic1Archived/src/Army.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="12" selection-start-column="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../CheckersLogic1Archived/src/GUI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="36" column="20" selection-start-line="36" selection-start-column="20" selection-end-line="36" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../CheckersLogic1Archived/src/MoveCoords.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../CheckersLogic1Archived/src/Type.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../CheckersLogic1Archived/src/GraphicObjectsPatterns.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="80" column="34" lean-forward="true" selection-start-line="80" selection-start-column="34" selection-end-line="80" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#524#525#0" expanded="true" />
+            <element signature="e#559#560#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/kodilla/checkers/src/main/logicEngine/MandatoryMovesFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="30" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/kodilla/checkers/src/main/GUI/CheckersDrawingLogic.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/kodilla/checkers/src/main/logicEngine/MoveCoords.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/kodilla/checkers/src/main/logicEngine/HumanVsHuman.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/kodilla/checkers/src/main/logicEngine/Mode.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/kodilla/checkers/src/main/logicEngine/CoronationAnalyzer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/kodilla/checkers/src/main/logicEngine/WhoWin.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/kodilla/checkers/src/main/logicEngine/CheckersInterface.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/kodilla/checkers/src/main/GUI/CheckersPatterns.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/kodilla/checkers/src/main/logicEngine/Board.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/kodilla/checkers/src/main/logicEngine/BoardRow.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/kodilla/checkers/src/main/logicEngine/AvailableMovesAnalyzer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="25" column="9" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/kodilla/checkers/src/main/logicEngine/Type.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/kodilla/checkers/src/main/GUI/GUILogic.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/kodilla/checkers/src/main/logicEngine/Army.java">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/kodilla/checkers/src/main/Checkers.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -326,64 +444,41 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/kodilla/checkers/src/main/Move.java">
+    <entry file="file://$PROJECT_DIR$/src/com/kodilla/checkers/src/main/logicEngine/WhoWin.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/kodilla/checkers/src/main/logicEngine/CheckersInterface.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/kodilla/checkers/src/main/GUI/CheckersPatterns.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/kodilla/checkers/src/main/logicEngine/Board.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/kodilla/checkers/src/main/logicEngine/BoardRow.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/kodilla/checkers/src/main/logicEngine/AvailableMovesAnalyzer.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/kodilla/checkers/src/main/logicEngine/Type.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/kodilla/checkers/src/main/GUI/GUILogic.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/kodilla/checkers/src/main/logicEngine/Army.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
-          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+          <caret line="2" column="18" lean-forward="true" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/kodilla/checkers/src/main/Army.java">
+    <entry file="file://$PROJECT_DIR$/src/com/kodilla/checkers/src/main/Checkers.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/kodilla/checkers/src/main/MoveCoords.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/kodilla/checkers/src/main/Type.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/kodilla/checkers/src/main/Board.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2244">
-          <caret line="110" column="29" lean-forward="true" selection-start-line="110" selection-start-column="29" selection-end-line="110" selection-end-column="29" />
-          <folding>
-            <element signature="e#526#527#0" expanded="true" />
-            <element signature="e#588#589#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/kodilla/checkers/src/main/GUI.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="792">
-          <caret line="38" column="20" lean-forward="true" selection-start-line="38" selection-start-column="20" selection-end-line="38" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/kodilla/checkers/src/main/GraphicObjectsPatterns.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="770">
-          <caret line="98" column="28" selection-start-line="96" selection-start-column="2" selection-end-line="123" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#524#525#0" expanded="true" />
-            <element signature="e#559#560#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="176">
+          <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
         </state>
       </provider>
     </entry>

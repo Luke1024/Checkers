@@ -4,8 +4,8 @@ import javafx.scene.Group;
 import javafx.scene.paint.Color;
 import javafx.scene.shape.Circle;
 import javafx.scene.shape.Rectangle;
-import logicEngine.Army;
-import logicEngine.Type;
+import com.kodilla.checkers.src.main.logicEngine.Army;
+import com.kodilla.checkers.src.main.logicEngine.Type;
 
 public class CheckersPatterns {
 
@@ -18,23 +18,16 @@ public class CheckersPatterns {
             {0,1,0,1,0,1,0,1},
             {1,0,1,0,1,0,1,0}};
 
-    public byte[][] getCheckerBoard() {
-        return checkerBoard;
-    }
-
-    Rectangle getField(int x, int y, byte typeCode){
+    private Rectangle getField(int x, int y, byte typeCode){
         Rectangle rect = new Rectangle();
         if(typeCode==0) rect = new Rectangle(100, 100, Color.rgb(205,170,125));
         if(typeCode==1) rect = new Rectangle(100, 100, Color.rgb(139,105,20));
-        //error handling
-        if(typeCode<0 || typeCode>1) rect = new Rectangle(100, 100, Color.BLACK);
         rect.setX(x);
         rect.setY(y);
         return rect;
     }
-    //public Group assembleCrownPattern(Color color){}
 
-    public Group assembleTopMan(int colInPixels, int rowInPixels, double opacity){
+    private Group assembleTopMan(int colInPixels, int rowInPixels, double opacity){
         Group checker = new Group();
         Color darkBlack = Color.rgb(0,0,0,opacity);
         Color lightBlack = Color.rgb(50,50,50,opacity);
@@ -45,7 +38,7 @@ public class CheckersPatterns {
         return checker;
     }
 
-    public Group assembleTopKing(int colInPixels, int rowInPixels, double opacity){
+    private Group assembleTopKing(int colInPixels, int rowInPixels, double opacity){
         Group checker = new Group();
         Color darkBlack = Color.rgb(0,0,0,opacity);
         Color gold = Color.rgb(255,215,0, opacity);
@@ -54,7 +47,7 @@ public class CheckersPatterns {
         return checker;
     }
 
-    public Group assembleBottomMan(int colInPixels, int rowInPixels, double opacity){
+    private Group assembleBottomMan(int colInPixels, int rowInPixels, double opacity){
         Group checker = new Group();
         Color darkBrown = Color.rgb(205, 133, 63, opacity);
         Color lightBrown = Color.rgb(210, 105, 30, opacity);
@@ -65,7 +58,7 @@ public class CheckersPatterns {
         return checker;
     }
 
-    public Group assembleBottomKing(int colInPixels, int rowInPixels, double opacity){
+    private Group assembleBottomKing(int colInPixels, int rowInPixels, double opacity){
         Group checker = new Group();
         Color darkBrown = Color.rgb(205, 133, 63, opacity);
         Color gold = Color.rgb(255,215,0, opacity);
@@ -96,20 +89,13 @@ public class CheckersPatterns {
         }
         return checker;
     }
+
     public Rectangle getMandatorySquare(int row, int col){
-        Group squareMandatory = new Group();
-        int rowInPixels = row*100+50;
-        int colInPixels = col*100+50;
-        Rectangle rect = new Rectangle(rowInPixels, colInPixels, Color.rgb(255,215,0, 0.1));
+        int rowInPixels = row*100;
+        int colInPixels = col*100;
+        Rectangle rect = new Rectangle(colInPixels, rowInPixels,100,100);
+        rect.setFill(Color.rgb(255,215,0, 0.3));
         return rect;
-    }
-
-
-    public Group drawMandatoryChecker(int row, int col, Army army, Type type, double opacity) {
-        Group checker = new Group();
-        checker.getChildren().add(getMandatorySquare(row, col));
-        checker.getChildren().add(drawingChecker(row, col, army, type, opacity));
-        return checker;
     }
 
     public Group drawSquares() {
